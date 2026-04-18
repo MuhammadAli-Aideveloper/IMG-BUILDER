@@ -1,0 +1,9 @@
+gradio
+diffusers
+transformers
+accelerate
+torch
+torchvision
+scipy
+ftfy
+Pillow
